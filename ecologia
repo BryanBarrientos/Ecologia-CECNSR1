@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecología y Naturaleza</title>
+    
+    
+</head>
+<body>
+    <header>
+        🌱 Ecología y Naturaleza 🌱
+    </header>
+
+    <nav>
+        <a href="file:///C:/Users/MINEDUCYT/Downloads/ecologia/datta/5R.html">5R</a>
+        <a href="#acciones">Acciones</a>
+        <a href="file:///C:/Users/MINEDUCYT/Downloads/ecologia/datta/galeria.html">Galería</a>
+    </nav>
+
+    <section id="importancia">
+        <h2>Importancia de la Ecología</h2>
+        <p>
+            La ecología estudia la relación entre los seres vivos y su entorno. Promueve el equilibrio de los ecosistemas y la conservación de los recursos naturales. Proteger nuestro planeta es fundamental para asegurar un futuro sostenible para las próximas generaciones.
+        </p>
+    </section>
+
+    <section id="acciones">
+        <h2>Acciones para Cuidar el Medio Ambiente</h2>
+        <p>
+            Podemos contribuir al cuidado de la naturaleza mediante acciones como reducir, reutilizar y reciclar. También es importante plantar árboles, conservar el agua, y proteger la fauna y flora de nuestro entorno. Cada pequeña acción cuenta para mantener nuestro planeta sano.
+        </p>
+    </section>
+
+    <section id="galeria">
+        <h2>Galería de Naturaleza</h2>
+        <div class="images">
+            <img src="https://i.ibb.co/9n0ZJ6T/tree.jpg" alt="Árbol verde">
+            <img src="https://i.ibb.co/ZV5JbKZ/forest.jpg" alt="Bosque">
+            <img src="https://i.ibb.co/7y1FxgC/river.jpg" alt="Río natural">
+        </div>
+    </section>
+    <link rel="stylesheet" href="style.css">
+    <footer>
+        © 2025 Ecología y Naturaleza - Protege tu planeta
+    </footer>
+</body>
+</html>
